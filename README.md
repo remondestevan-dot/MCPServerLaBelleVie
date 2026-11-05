@@ -310,3 +310,5 @@ integration workflow.
 ## License
 
 [MIT](LICENSE)
+
+Configuration personnelle du projet.
